@@ -1,0 +1,46 @@
+﻿@model WebClient.Models.DataCraftViewModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Index</h2>
+
+<div>
+
+
+    @for(int i =0;i<Model.BlockGroup.AllEntities.Count;i++){
+
+    <div class="blockGroup">
+
+        <h2>Class Name:</h2>
+        <h2>@(Model.BlockGroup.AllEntities[i].ClassName)</h2>
+
+        <h2>Variables:</h2>
+        @for(int v =0;v<Model.BlockGroup.AllEntities[i].Variables.Count ;v++){
+    <div>
+        <h3>@(Model.BlockGroup.AllEntities[i].Variables[v].ToString())</h3>
+        <textarea rows="1" cols="50">
+            @(Model.BlockGroup.AllEntities[i].Variables[v].Value.ToString())
+        </textarea>
+    </div>
+        }
+        <h2>Functions:</h2>
+
+        @for(int v =0;v<Model.BlockGroup.AllEntities[i].Functions.Count ;v++){
+        <div>
+            <h3>@(Model.BlockGroup.AllEntities[i].Functions[v].ToString())</h3>
+            <button>Excecute Function</button>
+
+        </div>
+
+        }
+
+    </div>
+    }
+
+
+
+</div>
+
+

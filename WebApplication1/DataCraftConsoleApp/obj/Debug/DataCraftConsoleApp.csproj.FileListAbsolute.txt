@@ -1,0 +1,10 @@
+C:\Users\Chris Carter\source\repos\WebApplication1\DataCraftConsoleApp\bin\Debug\DataCraftConsoleApp.exe.config
+C:\Users\Chris Carter\source\repos\WebApplication1\DataCraftConsoleApp\bin\Debug\DataCraftConsoleApp.exe
+C:\Users\Chris Carter\source\repos\WebApplication1\DataCraftConsoleApp\bin\Debug\DataCraftConsoleApp.pdb
+C:\Users\Chris Carter\source\repos\WebApplication1\DataCraftConsoleApp\bin\Debug\DataCraft.dll
+C:\Users\Chris Carter\source\repos\WebApplication1\DataCraftConsoleApp\bin\Debug\DataCraft.pdb
+C:\Users\Chris Carter\source\repos\WebApplication1\DataCraftConsoleApp\obj\Debug\DataCraftConsoleApp.csprojAssemblyReference.cache
+C:\Users\Chris Carter\source\repos\WebApplication1\DataCraftConsoleApp\obj\Debug\DataCraftConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Chris Carter\source\repos\WebApplication1\DataCraftConsoleApp\obj\Debug\DataCraftConsoleApp.csproj.CopyComplete
+C:\Users\Chris Carter\source\repos\WebApplication1\DataCraftConsoleApp\obj\Debug\DataCraftConsoleApp.exe
+C:\Users\Chris Carter\source\repos\WebApplication1\DataCraftConsoleApp\obj\Debug\DataCraftConsoleApp.pdb

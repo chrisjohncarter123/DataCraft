@@ -1,0 +1,9 @@
+C:\Users\Chris Carter\source\repos\WebApplication1\DataCraft\bin\Debug\netstandard2.0\DataCraft.deps.json
+C:\Users\Chris Carter\source\repos\WebApplication1\DataCraft\bin\Debug\netstandard2.0\DataCraft.dll
+C:\Users\Chris Carter\source\repos\WebApplication1\DataCraft\bin\Debug\netstandard2.0\DataCraft.pdb
+C:\Users\Chris Carter\source\repos\WebApplication1\DataCraft\obj\Debug\netstandard2.0\DataCraft.csprojAssemblyReference.cache
+C:\Users\Chris Carter\source\repos\WebApplication1\DataCraft\obj\Debug\netstandard2.0\DataCraft.csproj.CoreCompileInputs.cache
+C:\Users\Chris Carter\source\repos\WebApplication1\DataCraft\obj\Debug\netstandard2.0\DataCraft.AssemblyInfoInputs.cache
+C:\Users\Chris Carter\source\repos\WebApplication1\DataCraft\obj\Debug\netstandard2.0\DataCraft.AssemblyInfo.cs
+C:\Users\Chris Carter\source\repos\WebApplication1\DataCraft\obj\Debug\netstandard2.0\DataCraft.dll
+C:\Users\Chris Carter\source\repos\WebApplication1\DataCraft\obj\Debug\netstandard2.0\DataCraft.pdb

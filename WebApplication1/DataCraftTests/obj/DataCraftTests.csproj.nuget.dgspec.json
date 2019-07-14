@@ -1,0 +1,127 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Chris Carter\\source\\repos\\WebApplication1\\DataCraftTests\\DataCraftTests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Chris Carter\\source\\repos\\WebApplication1\\DataCraftTests\\DataCraftTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Chris Carter\\source\\repos\\WebApplication1\\DataCraftTests\\DataCraftTests.csproj",
+        "projectName": "DataCraftTests",
+        "projectPath": "C:\\Users\\Chris Carter\\source\\repos\\WebApplication1\\DataCraftTests\\DataCraftTests.csproj",
+        "packagesPath": "C:\\Users\\Chris Carter\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Chris Carter\\source\\repos\\WebApplication1\\DataCraftTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Chris Carter\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\Chris Carter\\source\\repos\\WebApplication1\\DataCraft\\DataCraft.csproj": {
+                "projectPath": "C:\\Users\\Chris Carter\\source\\repos\\WebApplication1\\DataCraft\\DataCraft.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.8.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.10.0, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.10.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Chris Carter\\source\\repos\\WebApplication1\\DataCraft\\DataCraft.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Chris Carter\\source\\repos\\WebApplication1\\DataCraft\\DataCraft.csproj",
+        "projectName": "DataCraft",
+        "projectPath": "C:\\Users\\Chris Carter\\source\\repos\\WebApplication1\\DataCraft\\DataCraft.csproj",
+        "packagesPath": "C:\\Users\\Chris Carter\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Chris Carter\\source\\repos\\WebApplication1\\DataCraft\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Chris Carter\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
